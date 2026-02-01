@@ -16,6 +16,4 @@ are involved.
 mtgp-functional-toy/
 ├── notebooks/        # Jupyter notebooks (main entry point)
 ├── src/              # Local Python modules (kernels, MTGP model)
-├── figures/          # Exported figures (PDF)
-├── requirements.txt
-└── README.md
+
