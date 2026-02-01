@@ -1,8 +1,0 @@
-numpy
-torch
-gpytorch
-matplotlib
-scikit-learn
-pywavelets
-pandas
-tqdm
